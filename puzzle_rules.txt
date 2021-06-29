@@ -1,0 +1,10 @@
+PR Casual and WORD
+
+Anagrams : Find the anagram for the given word from the given list of words.
+Knights Paths : In how many ways can the give word be found in the grid as a knight path? A knight path is one where consecutive letters are a knight-move apart. (A knight-move is two spaces in one orthogonal direction, followed by one space in a perpendicular direction to the first.)
+Letter Weights : Write a number under each letter (in each cell) so that the numbers corresponding to the letters in each given word have the given sum. Different letters must have different numbers. The list of allowed numbers is given in a row underneath the cells.
+Nearest Exit : Identify the closest/nearest exit from the starting point black circle marked by the letter ’S’. 
+Word Search: Find all the words from the list in the grid of letters. Each words reads in a straight line in any direction : horizontally, vertically or diagonally. 
+Word Labyrinth : Write all the given words into the grid, following the spiral. Words must be separated by at least one empty cell. Letters cannot appear more than once in any row or column.
+Word Nurikabe : Place the given words in the grid, so that the words are readable in orthogonally (horizontally and vertically) connected cells. Different words can't touch each other orthogonally (horizontally and vertically). The remaining cells must form a single connected shape and can't have any 2x2 areas anywhere. Each word has exactly one letter given in the grid.
+Snaky Search : Find the given list of words in the grid. Each word is in the form of a Snake. A snake can NOT touch/cross itself or other Snakes even diagonally. The letters in the Snake must follow the same order as the word. Certain black cells can be given which can NOT be visited by Snakes. Ignore any punctuations, numbers of special characters in the words. 
